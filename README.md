@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  
 # Adventour: Your Gateway to Unforgettable Adventures
@@ -28,3 +29,6 @@ All you need is a text editor of your preference. No complex installations or so
 
 
 
+=======
+# DevopsProjectEval
+>>>>>>> 10e86b420192a1f7a864dfab44d50743c6e24512
